@@ -21,4 +21,3 @@ All project data is kept in the .pargo.json file, which is generated when the us
 
 - Actually implementing a proper test framework.
 - Allowing for custom linting (`pargo check-src`?)
--
